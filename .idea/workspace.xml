@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.BasicTypesKt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "Kotlin.StringTemplatesKt.executor": "Run",
     "Kotlin.Variables_Kt.executor": "Run",
@@ -43,10 +44,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
+  <component name="RunManager" selected="Kotlin.BasicTypesKt">
+    <configuration name="BasicTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicTypesKt" />
+      <module name="get-starter-koltin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
       <module name="get-starter-koltin" />
@@ -70,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BasicTypesKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.MainKt" />
