@@ -38,9 +38,10 @@ fun main() {
     //Strings
     var st: String
 
+    practiceBasicTypes()
 }
 
-fun pratice() {
+private fun practiceBasicTypes() {
     val a: Int = 1000
     val b: String = "log message"
     val c: Double = 3.14

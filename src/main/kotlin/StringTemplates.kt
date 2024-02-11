@@ -7,10 +7,12 @@ fun main() {
     println(" There are $customers customers")
     println(" There are ${customers + 1} customers")
 
+    practiceStringTemplates()
+}
 
+private fun practiceStringTemplates() {
     val name = "Mary"
     val age = 20
 
     println(" $name is $age years old ")
-
 }
