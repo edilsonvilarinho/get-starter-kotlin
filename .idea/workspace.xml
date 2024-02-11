@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Variables_Kt" />
+    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.VariablesKt" />
       <module name="get-starter-koltin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,7 +71,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.Variables_Kt" />
+        <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
