@@ -9,6 +9,7 @@ Maps Sets of key-value pairs where keys are unique and map to only one value
 fun main() {
     list()
     set()
+    map()
 }
 
 
@@ -47,4 +48,11 @@ private fun set() {
     println(fruit)
 
     println("This set has ${readOnlyFruit.count()} items")
+}
+
+private fun map() {
+    val readOnlyJuiceMenu = mapOf("apple" to 100, "kiwi" to 190, "orange" to 100)
+    println(readOnlyJuiceMenu)
+    val juiceMenu : MutableMap<String,Int> = mutableMapOf( "apple" to 100, "kiwi" to 190, "orange" to 100 )
+    println(juiceMenu)
 }
