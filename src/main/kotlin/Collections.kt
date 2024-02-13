@@ -8,6 +8,7 @@ Maps Sets of key-value pairs where keys are unique and map to only one value
 */
 fun main() {
     list()
+    set()
 }
 
 
@@ -32,4 +33,18 @@ private fun list() {
     println(shapes)
     shapes.remove("pentagon")
     println(shapes)
+}
+
+private fun set() {
+    val readOnlyFruit = setOf("apple", "banana", "cherry")
+    val fruit: MutableList<String> = mutableListOf("apple", "banana", "cherry")
+
+    println(readOnlyFruit)
+
+    fruit.add("dragonfruit")
+    println(fruit)
+    fruit.remove("dragonfruit")
+    println(fruit)
+
+    println("This set has ${readOnlyFruit.count()} items")
 }
