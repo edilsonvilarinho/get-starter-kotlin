@@ -6,11 +6,11 @@ Welcome to our Kotlin tour! This guide covers the fundamentals of the Kotlin pro
 
 1. [✅Variables](#variables)
 2. [✅Basic Types](#basic-types)
-3. [🚧Collections](#collections)
-4. [Control Flow](#control-flow)
-5. [Functions](#functions)
-6. [Classes](#classes)
-7. [Null Safety](#null-safety)
+3. [✅Collections](#collections)
+4. [🚧Control Flow](#control-flow)
+5. [🚧Functions](#functions)
+6. [🚧Classes](#classes)
+7. [🚧Null Safety](#null-safety)
 
 ## Overview
 
