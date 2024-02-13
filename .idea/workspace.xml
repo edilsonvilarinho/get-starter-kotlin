@@ -42,6 +42,7 @@
     "Kotlin.BasicTypesKt.executor": "Run",
     "Kotlin.CollectionsKt.executor": "Run",
     "Kotlin.ControlflowKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "Kotlin.StringTemplatesKt.executor": "Run",
     "Kotlin.Variables_Kt.executor": "Run",
@@ -53,7 +54,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ControlflowKt">
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
     <configuration name="BasicTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BasicTypesKt" />
       <module name="get-starter-koltin" />
@@ -75,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FunctionsKt" />
+      <module name="get-starter-koltin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.StringTemplatesKt" />
       <module name="get-starter-koltin" />
@@ -82,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.VariablesKt" />
-      <module name="get-starter-koltin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.ControlflowKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.BasicTypesKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
